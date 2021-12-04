@@ -2,6 +2,8 @@
 
 
 
+
+
 - 🔭 I’m currently working with Data Analysis, Machine Learning and Data Engineer ecosystem
 - 🌱 I’m currently learning Python and Data Science tools and libraries
 - 👯 I’m looking to collaborate on Data Science projects
@@ -36,12 +38,13 @@
   <a href="https://linktr.ee/DavidSua" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 	
   <a href = "mailto:davidsuarez193@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
   <a href="https://www.linkedin.com/in/davidsuareznieto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/DSuarezRRHH" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <a href="https://suarez-cdh.wixsite.com/davidsuareznieto" target="_blank"><img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white">
+  <a href="https://about.me/suarez.david" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" 
+target="_blank"></a>	
+   <a href="https://twitter.com/DSuarezRRHH" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
    <a href="https://www.kaggle.com/dsuareznieto" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/dsuareznieto/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.tiktok.com/@davidsuareznieto" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
   <a href="https://t.me/DSuarezRRHH" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" 
 target="_blank"></a>	
-  <a href="https://about.me/suarez.david" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" 
-target="_blank"></a>	
-  <a href="https://suarez-cdh.wixsite.com/davidsuareznieto" target="_blank"><img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white"> 
+
