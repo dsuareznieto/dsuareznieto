@@ -1,7 +1,7 @@
 ### Hi there, I'm David Suárez Nieto 👋
 
 
-
+I'm David, a Data Scientist looking to analyze and make decisions based on data. I also have specialized knowledge in talent management. One of my main interests is to be a transversal professional capable of applying knowledge of the IT sector and Data Science ecosystem to human resources one.
 
 
 - 🔭 I’m currently working with Data Analysis, Machine Learning and Data Engineer ecosystem
