@@ -36,7 +36,6 @@ I'm David, a Data Scientist looking to analyze and make decisions based on data.
  ### How to reach me 📭
 <div> 
   <a href="https://linktr.ee/DavidSua" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 	
-  <a href = "mailto:[email-eliminado]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
   <a href="https://www.linkedin.com/in/davidsuareznieto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://suarez-cdh.wixsite.com/davidsuareznieto" target="_blank"><img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white">
   <a href="https://about.me/suarez.david" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" 
