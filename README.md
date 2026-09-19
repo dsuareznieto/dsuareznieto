@@ -7,13 +7,7 @@ I'm David, a Data Scientist looking to analyze and make decisions based on data.
 - 🔭 I’m currently working with Data Analysis, Machine Learning and Data Engineer ecosystem
 - 🌱 I’m currently learning Python and Data Science tools and libraries
 - 👯 I’m looking to collaborate on Data Science projects
-
-<div align="center">
-  <a href="https://github.com/dsuareznieto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dsuareznieto&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsuareznieto&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-  
+ 
   ##
   ### 📈 Skills 📊
 <div style="display: inline_block"><br>
